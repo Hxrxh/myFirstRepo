@@ -4,3 +4,6 @@ Stuff i know about programming
 Html
 Css 
 javascript
+
+oh i missed one more
+DSA
